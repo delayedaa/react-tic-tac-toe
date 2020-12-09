@@ -8,11 +8,12 @@ You'll notice there are two options for setup that the tutorial offers. Do **Set
 
 ## How to submit:
 
-* Fork & clone this repository
-* Add to this `readme.md`below!
-* Pull request :D 
+- Fork & clone this repository
+- Add to this `readme.md`below!
+- Pull request :D
 
 ## Paste the link to your finished repo here:
 
+[https://github.com/delayedaa/react-tic-tac-toe](https://github.com/delayedaa/react-tic-tac-toe)
 
 ## Write a brief `reflection` on what you learned from this tutorial here:
